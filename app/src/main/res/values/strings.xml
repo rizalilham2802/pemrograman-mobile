@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="nama">Name</string>
+    <string name="kelas">Class</string>
+
+    <string name="favorite_tambah">ADD</string>
+    <string name="favorite_hapus">DELETE</string>
+
+    <string name="app_name">Movie</string>
+    <string name="ok_save">Data Successfully Saved</string>
+    <string name="ok_delete">Data Successfully Deleted</string>
+    <string name="loading_info">Fetching Data ...</string>
+    <string name="loading_post">Posting Data ...</string>
+    <string name="loading_delete">Deleting Data ...</string>
+    <string name="del_confirm_title">Delete Confirmation</string>
+    <string name="del_confirm_text">Are you sure want to delete this item?</string>
+    <string name="del_text_yes">Yes</string>
+    <string name="del_text_no">No</string>
+
+</resources>

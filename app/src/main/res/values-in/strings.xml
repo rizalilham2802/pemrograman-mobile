@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="nama">Nama</string>
+    <string name="kelas">Kelas</string>
+
+    <string name="favorite_tambah">Tambah</string>
+    <string name="favorite_hapus">Hapus</string>
+
+    <string name="app_name">Film</string>
+    <string name="ok_save">Data Berhasil Disimpan</string>
+    <string name="ok_delete">Data Berhasil Dihapus</string>
+    <string name="loading_info">Mengambil Data ...</string>
+    <string name="loading_post">Mengirim Data ...</string>
+    <string name="loading_delete">Menghapus Data ...</string>
+    <string name="del_confirm_title">Konfirmasi Hapus</string>
+    <string name="del_confirm_text">Apakah Anda Yakin Untuk Menghapus Item Ini?</string>
+    <string name="del_text_yes">Iya</string>
+    <string name="del_text_no">Tidak</string>
+</resources>
